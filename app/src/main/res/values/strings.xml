@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week1WeekendHomework</string>
+    <string name="age_label">When Scarlett was: </string>
+    <string name="age_count"> </string>
+    <string name="add_age">Increase age</string>
+    <string name="reduce_age">Decrease age</string>
+</resources>
